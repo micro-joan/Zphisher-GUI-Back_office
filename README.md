@@ -1,8 +1,28 @@
-![Logo back-office](https://user-images.githubusercontent.com/55983491/168439069-3ad07988-0275-4107-9b7d-0b4698c6550a.png)
 
+<div align="center"> 
+  
+![Diseño sin título (1)](https://user-images.githubusercontent.com/55983491/168443195-1d4183b3-1346-4517-a15c-6001f8024b70.png)
+
+
+# DISCLAIMER
+This toolkit contains materials that can be potentially damaging or dangerous for social media. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
+
+This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here. If this is your intention, then Get the hell out of here!
+
+It only demonstrates "how phishing works". You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk.
+
+</div>
+
+<hr>
+  
 # Zphisher-GUI-Back_office
 
 This is a plugin where you can see in real time the victims of your phishing campaign, you just have to change the Zphisher files for these. Easy!
+
+This tool creates a graphical back office for the zphish tool (although it is not 100% necessary to use this tool, you can use these files by hosting it on a localhost).
+
+If you don't have Zphisher installed on your computer:
+https://github.com/htr-tech/zphisher
 
 ## Instructions
 
@@ -34,7 +54,3 @@ The results will be saved in /programa_interprete/user_data.csv
 
 -Evaluation of security in the passwords of all the inserted accounts:
 ![image](https://user-images.githubusercontent.com/55983491/168440970-7fdd6df1-decc-4a6c-97c4-bd06b51a65e2.png)
-
-
-
-
