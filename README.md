@@ -20,7 +20,7 @@ This plugin comes with a sample login page, in this case from Office 365, you ca
 
 ## Where are the results saved?
 
-The results will be saved in /interpreter program/user_data.csv
+The results will be saved in /programa_interprete/user_data.csv
 
 ![Untitled Project (3)](https://user-images.githubusercontent.com/55983491/168440829-1b140cf7-3ede-428e-b2ad-a89cd3468455.gif)
 
