@@ -1,7 +1,7 @@
 
 <div align="center"> 
   
-![Diseño sin título (1)](https://user-images.githubusercontent.com/55983491/168443195-1d4183b3-1346-4517-a15c-6001f8024b70.png)
+![Diseño sin título (3)](https://user-images.githubusercontent.com/55983491/168604900-52b97711-4b94-49ce-bab5-070eef9c25aa.png)
 
 
 # DISCLAIMER
