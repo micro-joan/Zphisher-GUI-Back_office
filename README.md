@@ -36,6 +36,7 @@ https://youtu.be/y76q0LlUaU4
 - You need to deploy the server with a template, identify in the "login.html" file the name of the two post parameters.
 - Modify the post parameters of the "login.php" file of the plugin with the original identifier of Zphisher (line 7 and 8).
 - Replace all deployed http server files with plugin files (except login.html).
+- Set "chmod 777 -R in parental directory of phishing"
 
 If you have an api key from haveibeenpwned.com you have to insert it in the file "api_key.txt" in the directory "programa interprete", in this way the back-office will tell you which accounts are exposed on the internet.
 
